@@ -1,1 +1,1 @@
-{"login":"10-recceda","name":"Enoch Sontonga","id":"228113553","avatar_url":"https://avatars.githubusercontent.com/u/228113553?v=4","following":"1","followers":"0"}
+{"login":"10-recceda","name":"New Name","id":"228113553","avatar_url":"https://avatars.githubusercontent.com/u/228113553?v=4","following":"1","followers":"0"}
